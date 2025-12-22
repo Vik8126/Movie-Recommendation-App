@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Node
+frontend/node_modules/
+
+# Database (optional but recommended)
+backend/movies.db
+
+# OS
+.DS_Store
+Thumbs.db
