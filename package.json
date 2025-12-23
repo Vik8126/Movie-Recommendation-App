@@ -5,7 +5,7 @@
   "type": "module",
 
   "engines": {
-    "node": "24.x"
+    "node": ">=18 <=20"
   },
 
   "scripts": {
@@ -21,7 +21,10 @@
 
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
-    "vite": "^5.4.8",
-    "rollup": "^4.21.2"
+    "vite": "^5.4.8"
+  },
+
+  "overrides": {
+    "rollup": "^4.24.0"
   }
 }
