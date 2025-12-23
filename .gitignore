@@ -1,12 +1,16 @@
-# Environment variables
+# Secrets
 .env
+
+# Node
+node_modules/
+dist/
 
 # Python
 backend/venv/
 backend/__pycache__/
 backend/*.pyc
 
-# Database (optional but recommended)
+# Local DB
 backend/movies.db
 
 # OS
