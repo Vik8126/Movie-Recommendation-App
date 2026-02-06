@@ -58,7 +58,7 @@ export default function App() {
 
 const styles = {
   page: {
-    width: "100%",
+    width: "100vw",
     minHeight: "100vh",
     display: "flex",
     alignItems: "center",
