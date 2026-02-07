@@ -22,7 +22,7 @@ export default function App() {
               <br />
               <br />
               So tell me one thing 💕
-              <strong>Will you be my Valentine?</strong> 😘
+              <strong>Will you be my Valentine Cheekudiiii?</strong> 😘
             </p>
 
             <div style={styles.buttonWrap}>
