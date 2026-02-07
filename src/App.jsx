@@ -47,11 +47,12 @@ export default function App() {
               <br />I Love You So Much Cheeku 😘💖🔥 And Cheeku Aapko or v
               suprise milega 14th Feb ko hihihihihihi , You are so special to me
               cheeku ji , I have never felted for anyone the way i feel about
-              and I need You in my and soon as possible so that i don't have to
-              miss you more i can tease you and love you hug you , I hope hum
-              sath ho next valentine mai apko khi bhar restaurant pe le k jau
-              and hum celebrate kare mast , hayyyyyyyy you are cute ,
-              Muahhhhhhhhhhhhhhhhhhh 😘 , Apna khyal rakho , see you soon my love...
+              you and I need You in my life as soon as possible so that i don't
+              have to miss you more n i can tease you and love you n hug you , I
+              hope hum sath ho next valentine mai apko khi bhar restaurant pe le
+              k jau and hum celebrate kare mast , hayyyyyyyy you are so cute ,
+              Muahhhhhhhhhhhhhhhhhhh 😘 , Apna khyal rakho , see you soon my
+              love...💖💖💖
             </p>
             <div style={styles.heart}>❤️‍🔥❤️‍🔥❤️‍🔥</div>
           </>
