@@ -44,9 +44,14 @@ export default function App() {
             <p style={styles.text}>
               I knew it 😏 Guess you’re officially stuck with me now.
               <br />
-              <br />
-              Get ready for cuddles, teasing, stolen kisses 😘 and a Valentine
-              you won’t forget 🔥
+              <br />I Love You So Much Cheeku 😘💖🔥 And Cheeku Aapko or v
+              suprise milega 14th Feb ko hihihihihihi , You are so special to me
+              cheeku ji , I have never felted for anyone the way i feel about
+              and I need You in my and soon as possible so that i don't have to
+              miss you more i can tease you and love you hug you , I hope hum
+              sath ho next valentine mai apko khi bhar restaurant pe le k jau
+              and hum celebrate kare mast , hayyyyyyyy you are cute ,
+              Muahhhhhhhhhhhhhhhhhhh 😘 , Apna khyal rakho , see you soon my love...
             </p>
             <div style={styles.heart}>❤️‍🔥❤️‍🔥❤️‍🔥</div>
           </>
